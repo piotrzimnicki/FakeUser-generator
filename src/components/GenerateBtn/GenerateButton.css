@@ -1,0 +1,17 @@
+.generate-btn {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #2cabc1;
+    border: none;
+    width: 100%;
+    font-size: 1.4rem;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: .3s background-color;
+
+}
+.generate-btn:hover {
+    background-color: #207d8e;
+}
